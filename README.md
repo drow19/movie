@@ -1,7 +1,7 @@
 # Web Scraping using flutter
-Flutter Anime Streaming Apps (Web Scraping)
+Flutter Movie Streaming Apps (Web Scraping)
 
 ## Screenshot 
 ![](images/home.jpg)  ![](images/list.jpg)
 
-![](images/detail.jpg)
+![](images/nav.jpg)   ![](images/detail.jpg)
